@@ -10,3 +10,4 @@ you can see the list of the practical modules:
 We can use glob to search for a specific file pattern, or perhaps more usefully, search for files where the filename matches a certain pattern by using wildcard characters. touch the link for more:(https://towardsdatascience.com/the-python-glob-module-47d82f4cbd2d)
 >4. pycoingecko: it is a API to gather the coinGecko markrt information 
 >5. HTTP request: at this notebook we used python library to send request to the server with HTTP protocol
+>6. pycaret is library that help you to visualize your data in the best way!! by clusteing algorithm and cubing tools! have fun! :)
